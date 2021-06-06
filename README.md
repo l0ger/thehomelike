@@ -1,6 +1,9 @@
 # Amazing project by Mehdi :)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Config
+
+Before running application put your accessToken into the path: rootProject/src/constants/apollo.constants
+### `const accessToken = [your access token]`
 
 ## Available Scripts
 
