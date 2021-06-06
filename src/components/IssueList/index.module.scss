@@ -1,0 +1,8 @@
+@import "../../globalStyles/variables";
+
+.issueList {
+  .listHeader {
+    font-size: $listHeaderFontSize;
+    font-weight: $headerFontWeight;
+  }
+}

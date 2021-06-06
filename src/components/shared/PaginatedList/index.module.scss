@@ -1,0 +1,11 @@
+
+.list {
+  :global(.ant-pagination-simple .ant-pagination-simple-pager input) {
+    pointer-events: none;
+  }
+  :global(.ant-list-pagination) {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+  }
+}
