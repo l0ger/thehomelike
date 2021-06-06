@@ -49,7 +49,7 @@ export interface GraphService<V> {
 
 export interface GraphErrorResponseItem {
     path:Array<string>;
-    extensions:{ code :string, typeName :string,"fieldName":string};
+    extensions:{ code :string, typeName :string, fieldName:string};
     locations:Array<{line:number,column:number}>;
     message:string;
 }
